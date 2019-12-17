@@ -11,4 +11,5 @@ https://github.com/lk495ir/Pocitacove-videnie/blob/master/Overview/Anisotropic%2
 ## Pseudocode:
 https://github.com/lk495ir/Pocitacove-videnie/blob/master/Overview/PseudoCode.pdf
 
+## Presentation:
 

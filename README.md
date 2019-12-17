@@ -32,8 +32,8 @@ C=(λ_1-λ_2)/(λ_1+λ_2 )
 
 Koherencia sa pohybuje od 0 do 1. Pre ideálnu miestnu orientáciu (λ_2=0 , λ_1>0) je jedna, pre štruktúru izotropnej šedej hodnoty (λ_1=λ_2>0) je nula.
 
-	Pseudokod:
+# Pseudokod:
 ....
 
-		Literatura:
+# Literatura:
 https://docs.opencv.org/master/d4/d70/tutorial_anisotropic_image_segmentation_by_a_gst.html

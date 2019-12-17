@@ -5,7 +5,7 @@
 - Michaela Pekárová
 -Ľubomír Rusnák
 
-# Pseudokod:
+## Pseudokod:
 
 
 

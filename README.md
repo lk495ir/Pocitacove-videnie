@@ -1,5 +1,3 @@
-# Pocitacove-videnie
-
 #    Anizotropná segmentácia obrazu pomocou tenzora gradientovej štruktúry
  
 # Čo je tenzor gradientovej štruktúry:

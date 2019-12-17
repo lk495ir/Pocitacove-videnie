@@ -12,4 +12,4 @@ https://github.com/lk495ir/Pocitacove-videnie/blob/master/Overview/Anisotropic%2
 https://github.com/lk495ir/Pocitacove-videnie/blob/master/Overview/PseudoCode.pdf
 
 ## Presentation:
-
+https://github.com/lk495ir/Pocitacove-videnie/tree/master/Presentation
